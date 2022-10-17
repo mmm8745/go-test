@@ -1,0 +1,5 @@
+package sortalgorithm
+
+func InsertSort() {
+
+}
