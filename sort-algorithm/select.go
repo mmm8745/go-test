@@ -15,6 +15,5 @@ func SelectSort(arr []int) []int {
 			swap(arr, minIndex, i)
 		}
 	}
-
 	return arr
 }
